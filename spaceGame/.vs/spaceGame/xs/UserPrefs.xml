@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{6BAA6E89-ADD4-A4B7-B91D-F4EDDAE2E86F}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="75efa750-fe13-4476-a0ce-9dd78b7b0f30" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/move.cs">
+    <Files>
+      <File FileName="Assets/move.cs" Line="11" Column="34" />
+      <File FileName="Assets/move2.cs" Line="37" Column="1" />
+      <File FileName="Assets/spawner.cs" Line="41" Column="15" />
+      <File FileName="Assets/tilt.cs" Line="22" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="spaceGame" expanded="True">
+            <Node name="Assets" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
